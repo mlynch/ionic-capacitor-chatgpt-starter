@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-tailwind-capacitor",
+  "name": "nextjs-tailwind-ionic-capacitor-chatgpt-starter",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -25,6 +25,7 @@
     "@types/react-router": "^5.1.11",
     "@types/react-router-dom": "^5.1.7",
     "classnames": "^2.2.6",
+    "eventsource-parser": "^1.0.0",
     "next": "^13.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

@@ -1,4 +1,5 @@
 module.exports = {
+  reactStrictMode: true,
   basePath: '',
   images: {
     domains: ['images.unsplash.com'],
